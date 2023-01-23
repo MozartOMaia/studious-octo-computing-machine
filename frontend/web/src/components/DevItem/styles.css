@@ -18,7 +18,7 @@ li.dev-item header img{
 }
 
 li.dev-item header .user-info {
-    margin-left: 10px;
+    margin-left: 0px;
 }
 
 li.dev-item p {
@@ -30,4 +30,10 @@ li.dev-item p {
 
 li.dev-item a:hover {
     color: #6331bbcb;
+}
+
+span {
+    margin: 1em;
+    font-weight: bold;
+    margin-left: 0;
 }
