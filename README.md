@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
-</h1>
+# DevRadar
 
 <h4 align="center">
   🚀 Semana OmniStack 10.0
